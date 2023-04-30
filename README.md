@@ -3,15 +3,20 @@
 </p>
 <h1 align=center>Abstraindo um Bootcamp Usando Orientação a Objetos em java</h1>
 
-# :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: #
 
->Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes ;-)
 
-<p align=center>
-  <img width="80%" src="https://user-images.githubusercontent.com/13790608/230703266-64e2f693-de64-458a-b56b-cbf4f75b796b.png"/>
-</p>
+# :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: #
 
-Fonte: <a href=https://github.com/cami-la/desafio-poo-dio>desafio-poo-dio<a> da instrutora Camila Cavalcante da DIO.
+
+
+
+
+*Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes.*
+
+
+
+
+
 
 ## :pencil: Funcionalidades
 
@@ -22,6 +27,7 @@ Fonte: <a href=https://github.com/cami-la/desafio-poo-dio>desafio-poo-dio<a> da 
   - Cursos;
   - Mentorias;
   
+
 :white_check_mark: ``Dev``
 - Cria um Dev;
 - Inscreve em um Bootcamp;
