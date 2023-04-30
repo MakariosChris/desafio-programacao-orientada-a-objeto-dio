@@ -1,7 +1,9 @@
 <p align="center">
   <img width="250px" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png">
 </p>
-<h1 align=center>Abstraindo um Bootcamp Usando Orientação a Objetos em java</h1> :coffee:
+<h1 align=center>Abstraindo um Bootcamp Usando Orientação a Objetos em java</h1>
+
+# :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: #
 
 >Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes ;-)
 
@@ -13,14 +15,14 @@ Fonte: <a href=https://github.com/cami-la/desafio-poo-dio>desafio-poo-dio<a> da 
 
 ## :pencil: Funcionalidades
 
-:package: ``Bootcamp``
+:white_check_mark: ``Bootcamp``
 - Cria um Bootcamp;
 - Aceita matrícula de Devs;
 - Aceita cadastro de Conteúdos:
   - Cursos;
   - Mentorias;
   
-:package: ``Dev``
+:white_check_mark: ``Dev``
 - Cria um Dev;
 - Inscreve em um Bootcamp;
 - Progride em um Bootcamp (consumindo conteúdos);
@@ -30,7 +32,7 @@ Fonte: <a href=https://github.com/cami-la/desafio-poo-dio>desafio-poo-dio<a> da 
   - Porcentagem concluída de cada Bootcamp;
   - Conteúdos restantes;
 
-:package: ``Conteúdo (classe abstrata)``
+:white_check_mark: ``Conteúdo (classe abstrata)``
 - Curso (herda de Conteúdo):
   - Cria um Curso;
   - Calcula XP de acordo com a carga horária;
