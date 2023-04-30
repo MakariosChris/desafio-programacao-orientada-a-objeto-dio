@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250px" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png">
+  <img width="300px" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png">
 </p>
 <h1 align=center>Abstraindo um Bootcamp Usando Orientação a Objetos em java</h1>
 
@@ -15,35 +15,23 @@
 
 
 
+# :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: #
 
 
 
-## :pencil: Funcionalidades
 
-:white_check_mark: ``Bootcamp``
-- Cria um Bootcamp;
-- Aceita matrícula de Devs;
-- Aceita cadastro de Conteúdos:
-  - Cursos;
-  - Mentorias;
-  
+## :white_check_mark: Funcionalidades :pencil:
 
-:white_check_mark: ``Dev``
-- Cria um Dev;
-- Inscreve em um Bootcamp;
-- Progride em um Bootcamp (consumindo conteúdos);
-- Calcula o XP total adquirido;
-- Imprime Bootcamp inscrito e seus respectivos Conteúdos;
-- Imprime progresso:
-  - Porcentagem concluída de cada Bootcamp;
-  - Conteúdos restantes;
+<p>
+<strong>	1.</strong> Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
+<strong>	2.</strong> Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
+<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br> 
+<strong>	4.</strong> Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO <br>
+<strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
+</p>
 
-:white_check_mark: ``Conteúdo (classe abstrata)``
-- Curso (herda de Conteúdo):
-  - Cria um Curso;
-  - Calcula XP de acordo com a carga horária;
-- Mentoria (herda de Conteúdo):
-  - Cria uma Mentoria;
-  - Tem XP fixo (não tem carga horária);
-  
 
+
+**Fonte:** https://github.com/cami-la/desafio-poo-dio
+
+**Professora:**  *Camila Cavalcante*
